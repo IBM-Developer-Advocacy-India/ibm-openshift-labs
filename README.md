@@ -33,6 +33,6 @@ Every week you will receive a new hands-on lab, which you will be expected to co
 [Lab environment setup](Steps to setting up your lab environment here)
 
 
-### How to access your lab environment
+### How to setup and access your lab environment
 
 Step 1: Open
