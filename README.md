@@ -1,7 +1,5 @@
 # IBM - Cloud Native Journey - Labs
 
-
-# Cloud Native Learning Journey
 This is a repository will have the lab links to get you started with Cloud Native learning journey.
 
 ![logo](img/bsok-1.png)
