@@ -35,6 +35,21 @@ Every week you will receive a new hands-on lab, which you will be expected to co
 
 ### How to setup and access your lab environment
 
-Step 1: Open [IBM OpenShift Labs](https://developer.ibm.com/openlabs/openshift).
+Please follow the steps below for accessing your lab environment & completing your hands-on lab.
 
-Step 2: Choose your desired lab that you want to work upon.
+Step 1: Open [IBM OpenShift Labs](https://developer.ibm.com/openlabs/openshift)
+
+Step 2: Choose your desired lab that you want to work on and click on `Launch Lab`
+
+![labselection](img/Selectinglab.png)
+
+Step 3: In the next page. If you are already having an IBM Cloud Account then choose `Signin` or else register for an IBM Cloud account by clicking on `Register`.
+
+![accountlogin](img/ibmcloudsignup.png)
+
+Step 4: After signing in, you should the see your environment with the exercises to execute, along with the terminal
+
+![accessingterminal](img/accessingterminal.png)
+
+
+All the best!
